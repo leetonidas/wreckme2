@@ -9,7 +9,7 @@ This year:
 - Not Haskell
 - Not a crackme
 
-Therefore it must be realy baby, right?
+Therefore it must be really baby, right?
 
 additional information:
 wreckme2 has been patched to incooperate some anti debugging
